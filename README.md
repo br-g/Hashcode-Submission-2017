@@ -1,2 +1,3 @@
 # Google-Hashcode-Gym
-High score submissions for Google Hash Code contest.
+Some high score submissions for Google Hash Code contest. :fire:   
+Solutions crafted after the contest, for training.
