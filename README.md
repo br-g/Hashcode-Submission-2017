@@ -1,11 +1,6 @@
-# Google-Hashcode-Gym
-Some high score submissions for Google Hash Code challenges. :fire:   
-Solutions crafted after the contest, for training & sharing.
+A high score submission for the 2017 Google Hash Code challenge.  
+Implemented after the contest, for training and sharing.
 
-## Content
-**2017 qualification** (*streaming videos*): 2,643,395 (#9) in Java    
-**2016 qualification** (*delivery*): *work in progress*   
+Problem statement: https://storage.googleapis.com/coding-competitions-staging.appspot.com/HC/2017/hashcode2017_qualification_task.pdf
 
-If you have a clean high-score solution to one of the *HashCode* challenge, please contribute and share it!
-
-
+**Score: 2,643,395 - #9 of the contest
